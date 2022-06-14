@@ -1,0 +1,4 @@
+erp:
+  db:
+    username: root
+    password: root
